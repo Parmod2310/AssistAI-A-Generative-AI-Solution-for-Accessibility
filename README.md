@@ -93,7 +93,7 @@ You can find additional screenshots and recordings for the AssistAI project in t
 | **Real-Time Scene Understanding** | ![Scene Understanding](https://github.com/Parmod2310/AssistAI-A-Generative-AI-Solution-for-Accessibility/blob/main/Screenshot%20%26%20Recording/180758.png) |
 | **Text-to-Speech Conversion**    | ![Text-to-Speech](https://github.com/Parmod2310/AssistAI-A-Generative-AI-Solution-for-Accessibility/blob/main/Screenshot%20%26%20Recording/180806.png) |
 | **Object Detection**        | ![Object Detection](https://github.com/Parmod2310/AssistAI-A-Generative-AI-Solution-for-Accessibility/blob/main/Screenshot%20%26%20Recording/180821.png) |
-| **Task Assistance**         | ![Task Assistance](https://github.com/Parmod2310/AssistAI-A-Generative-AI-Solution-for-Accessibility/blob/main/Screenshot%20%26%20Recording/180838.png) |
+| **Personalized Assistance**         | ![Personalized Assistance](https://github.com/Parmod2310/AssistAI-A-Generative-AI-Solution-for-Accessibility/blob/main/Screenshot%20%26%20Recording/180838.png) |
 
 ---
 ## 🔧 Setup and Installation
