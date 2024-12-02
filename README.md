@@ -165,7 +165,6 @@ If you have any questions, feel free to reach out:
 
 - **Email**: p921035@gmail.com  
 - **LinkedIn**: [Parmod's LinkedIn Profile](https://www.linkedin.com/in/parmod2310/)  
-- **GitHub**: [Parmod's GitHub Profile](https://github.com/Parmod2310/)  
 
 --- 
 
